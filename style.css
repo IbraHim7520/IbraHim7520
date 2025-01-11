@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #F5F5F5;
+    font-family: Fira Sans;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+
+}
+header{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header > nav{
+    height: fit-content;
+    width: 1280px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header > nav> h1{
+    font-size: 37px;
+    color: rgb(14, 14, 14);
+    font-weight: 700;
+}
+header > nav > button{
+    height: 52px;
+    width: 116px;
+    font-size: 18px;
+    color: rgb(14, 14, 14);
+    border-radius: 8px;
+    border: 1px solid rgb(0, 106, 80);
+}
+header > nav > button:hover{
+    cursor: pointer;
+    border: none;
+    background-color: rgb(0, 106, 80);
+    transition: 0.5s ease-out;
+    color: white;
+}
+main{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+}
+main > section{
+    width: 1280px;
+    height: 100%;
+}
+main > section .banner{
+    height: 560px;
+    width: 100%;
+    border-radius: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(198, 228, 214);
+}
+.banner .textBox{
+    width: 662px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.banner .textBox > p{
+    color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 0px;
+}
+.banner .textBox > h1{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 56px;
+font-weight: 700;
+line-height: 67px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 5px;
+margin-bottom: 15px;
+}
+.banner .textBox button{
+    height: 56px;
+    width: 270px;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+margin-top: 0px;
+background: rgb(0, 106, 80);
+border: none;
+}
+.banner .textBox button:hover{
+    cursor: pointer;
+    background-color: transparent;
+    border: 1px solid rgb(0, 106, 80);
+    transition: 0.5s ease;
+    color: black;
+}
+section > h1{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 80px;
+}
+section > .fourBox{
+    height: 244px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+section > .fourBox .box{
+    width: 302px;
+    height: 244px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    position: static;
+    padding: 24px;
+    justify-content: center;
+}
+section > .fourBox .box p{
+    margin-top: 0px;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+section > .fourBox .box h3{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+section > .fourBox .box img{
+    width: 62px;
+    height: 62px;
+}
+.vision{
+    margin-top: 80px;
+    height: 765x;
+    width: 100%;
+    text-align: left;
+}
+.vision > h1{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+}
+.vision >p{
+    margin-top: 0px;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.vision .mini-box{
+    height: 325px;
+    width: 100%;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.vision .mini-box .box{
+    height: 100%;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 16px;
+    box-sizing: border-box;
+    padding: 32px;
+    border: none;
+}
+.vision .mini-box .box img{
+    height: 55px;
+    width: 55px;
+    margin-bottom: 20px;
+
+}
+.vision .mini-box .box h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.vision .mini-box .box p{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.vision .mini-box .box > button{
+    color: white;
+    width: 122px;
+    height: 42px;
+    border-radius: 8px;
+font-size: 13px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+border: none;
+}
+
+.vision .quote{
+    margin-top: 32px;
+    width: 100%;
+    height: 256px;
+    padding: 20px;
+    background-image: url("/B11A1--assignment-1/assets/quote-bg.png");
+    background-position: top left;
+    background-repeat: no-repeat; 
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+}
