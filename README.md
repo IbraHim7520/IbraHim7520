@@ -3,7 +3,8 @@ I'm a passionate full-stack developer skilled in the MERN stack, with working kn
 I enjoy building efficient, user-friendly web applications and continuously learning new technologies to improve my craft.
 <br></br>
 <strong>And Currently Iam exploring NextJs and Advance Python to enhance my skills</strong>
-
+<br></br>
+<br></br>
 <img src="https://i.ibb.co/F4GJfWJQ/banner.jpg"></img>
 
 ## 🌐 Socials:
