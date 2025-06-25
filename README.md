@@ -1,5 +1,4 @@
-About Me💫
-
+<h1>About Me💫</h1>
 <img src="https://i.ibb.co/F4GJfWJQ/banner.jpg"></img>
 
 ## 🌐 Socials:
