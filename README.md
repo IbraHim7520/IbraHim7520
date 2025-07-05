@@ -1,8 +1,9 @@
 <h1>About Me💫</h1>
-I'm a passionate full-stack developer skilled in the MERN stack, with working knowledge of Python, Java, PHP, and SQL.
+I'm Ibrahim a passionate full-stack developer skilled in the MERN stack, with working knowledge of Python, Java, PHP, and SQL.
 I enjoy building efficient, user-friendly web applications and continuously learning new technologies to improve my craft.
 <br></br>
 <strong>And Currently Iam exploring NextJs and Advance Python to enhance my skills</strong>
+<strong>Also beside exploring NextJs and Advance Python Iam Working on a Grocery Shop E-Commerce Project that will help to keep in mind my others techology as revision</strong>
 <br></br>
 <br></br>
 <img src="https://i.ibb.co/kVNPZgmJ/Black-and-Yellow-Web-Developer-Linked-In-Banner.png"></img>
