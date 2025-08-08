@@ -6,7 +6,7 @@ I enjoy building efficient, user-friendly web applications and continuously lear
 <strong>Also beside exploring NextJs and Advance Python Iam Working on a Grocery Shop E-Commerce Project that will help to keep in mind my others techology as revision</strong>
 <br></br>
 <br></br>
-<img src="https://i.ibb.co/kVNPZgmJ/Black-and-Yellow-Web-Developer-Linked-In-Banner.png"></img>
+<img src="https://i.ibb.co.com/CphcBS9q/linkedin-banner.png"></img>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/16kmVy25Qr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibra-him-011177342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
