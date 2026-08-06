@@ -104,11 +104,3 @@ I'm **Ibrahim**, a passionate **Full-Stack Developer** who enjoys building moder
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=IbraHim7520&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
