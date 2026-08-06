@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">Passionate Full-Stack Developer | Problem Solver | Lifelong Learner</h3>
 
@@ -138,4 +138,3 @@ I'm **Ibrahim**, a passionate **Full-Stack Developer** who enjoys building moder
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=IbraHim7520&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
-```
