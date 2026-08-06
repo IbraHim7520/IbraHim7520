@@ -20,9 +20,7 @@ I'm **Ibrahim**, a passionate **Full-Stack Developer** who enjoys building moder
 
 # 🚀 Current Focus
 
-- 🛒 Building a **Full-Stack Grocery Shop E-Commerce** platform
-- ⚡ Mastering **Next.js** and modern full-stack development
-- 🐍 Learning **Advanced Python**
+- ⚡ Mastering Modern **Full-stack** development
 - 🧩 Practicing **Data Structures & Algorithms** using C++
 - 🌱 Continuously improving software engineering fundamentals
 
@@ -74,15 +72,6 @@ I'm **Ibrahim**, a passionate **Full-Stack Developer** who enjoys building moder
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-# 🌟 Featured Projects
-
-- 🛒 Grocery Shop E-Commerce *(In Progress)*
-- 🎓 Mentorix — Online Learning Platform
-- ❤️ Pulse Care — Healthcare Platform
-- 💼 Personal Portfolio Website
 
 ---
 
