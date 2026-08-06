@@ -1,11 +1,11 @@
-<h1>About Me💫</h1>
-I'm Ibrahim a passionate MERN stack developer.
-I enjoy building efficient, user-friendly web applications and continuously learning new technologies to improve my craft.
-<br></br>
-<strong>And Currently Iam exploring NextJs and Advance Python to enhance my skills</strong>
-<strong>Also beside exploring NextJs and Advance Python Iam Working on a Grocery Shop E-Commerce Project that will help to keep in mind my others techology as revision</strong>
-<br></br>
-<br></br>
+<h1>💫 About Me</h1>
+
+I'm <strong>Ibrahim</strong>, a <strong>passionate Full-Stack Developer</strong> who loves building modern, scalable, and user-friendly web applications from the ground up.
+
+💻 I'm passionate about <strong>Full-Stack Development</strong>, <strong>Problem Solving</strong>, and writing clean, maintainable code. I enjoy turning complex ideas into simple, efficient solutions while continuously improving my skills through real-world projects and coding challenges.
+
+🚀 I believe in learning by building. Every project is an opportunity to explore new technologies, strengthen my fundamentals, and become a better software engineer.
+
 <img src="https://i.ibb.co.com/CphcBS9q/linkedin-banner.png"></img>
 
 ## 🌐 Socials:
