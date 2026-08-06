@@ -88,21 +88,6 @@ I'm **Ibrahim**, a passionate **Full-Stack Developer** who enjoys building moder
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IbraHim7520&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IbraHim7520/IbraHim7520/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
